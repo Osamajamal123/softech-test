@@ -1,0 +1,33 @@
+.container .download_app_container {
+  display: flex;
+  justify-content: space-between;
+  padding:56px 0px 100px 0px;
+}
+.container .download_app_container .download_app_left {
+  width: 45%;
+}
+.container .download_app_container .download_app_left .download_app_heading h1 {
+  font-weight: bold;
+  font-size: 85px;
+  line-height: 100%;
+  letter-spacing: -3px;
+  color: #313131;
+  margin: 0px;
+  padding: 69px 0px 0px 0px;
+}
+.container
+  .download_app_container
+  .download_app_left
+  .download_app_paragraph
+  p {
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #575757;
+    margin: 0px;
+    padding: 34px 0px 46px 0px;
+}
+
+.smart_service_container .smart_service_left .mobile-img {
+  z-index: 1;
+}

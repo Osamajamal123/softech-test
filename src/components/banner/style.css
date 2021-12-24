@@ -1,0 +1,83 @@
+.background_color_banner {
+  background-color: #1e5afa;
+}
+.background_color_banner .lines_img {
+  position: absolute;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.background_color_banner .lines_img img {
+  width: 1180px;
+}
+.container .banner_heading {
+  padding: 32px 0px 0px 0px;
+}
+.container .banner_heading h1 {
+  margin: 0px;
+  text-align: center;
+  font-weight: 800;
+  font-size: 85px;
+  text-align: center;
+  color: #fafafa;
+}
+.container .banner_paragraph {
+  padding: 19px 0px 60px 0px;
+}
+.container .banner_paragraph p {
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  color: #fafafa;
+  margin: 0px;
+}
+.social_media_container {
+  display: flex;
+  justify-content: space-between;
+}
+.social_media_container .social_media_images {
+  padding: 60px 0px 30px 0px;
+  z-index: 2;
+}
+.social_media_container .social_media_images .icon {
+  padding: 15px 40px;
+}
+.social_media_container .social_media_images .icon img{
+    cursor: pointer;
+}
+.social_media_container .mobile_img_social {
+  position: absolute;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: -32px 0px 0px 0px;
+  z-index: 1;
+}
+.curves_img_container {
+  display: flex;
+  justify-content: flex-end;
+  padding: 36px 0px 0px 0px;
+ 
+}
+.curves_img_container .down_arrow_img {
+  position: absolute;
+  right: 104px;
+  margin: 38px 0px 0px 0px;
+  cursor: pointer;
+  z-index: 1;
+}
+.play_store_apps {
+  display: flex;
+  justify-content: center;
+  padding: 153px 0px 30px 0px;
+}
+.play_store_apps img{
+  z-index: 1;
+}
+.line_graph {
+  position: absolute;
+  right: 0px;
+  margin: -334px 0px 0px 0px;
+}
