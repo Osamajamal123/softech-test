@@ -71,6 +71,14 @@
   .background_color
   .subscribe_container
   .subscribe_button_img_right
+  .subscribe_button
+  button:hover{
+    background: rgba(0, 0, 0, 0.2);
+  }
+.container
+  .background_color
+  .subscribe_container
+  .subscribe_button_img_right
   .subscribe_img {
   position: absolute;
   margin: 121px 0px 0px 188px;
