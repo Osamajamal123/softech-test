@@ -17,6 +17,9 @@
   font-weight: bold;
   margin: 0px;
 }
+.input_div{
+    width: 70%;
+}
 /* text_p_just */
 .footer_main_div .smart_home_div .text_div p {
   color: #575757;
